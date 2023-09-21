@@ -1564,7 +1564,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.14039857806034142,
+        "zoomFactor": 0.23089183385225157,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1578,8 +1578,8 @@
           "name": "NewTiledSprite",
           "persistentUuid": "1066c87d-74db-440a-8d9c-7e187f122513",
           "width": 3644,
-          "x": -1190,
-          "y": -740,
+          "x": -1082,
+          "y": -689,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1779,8 +1779,8 @@
           "name": "Portal",
           "persistentUuid": "1287cd53-cd57-41bb-98e3-4f0fd2a504ca",
           "width": 0,
-          "x": -1135,
-          "y": 1093,
+          "x": -1083,
+          "y": 996,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -3014,30 +3014,6 @@
               ]
             }
           ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "NewTiledSprite2",
-          "tags": "",
-          "texture": "Bloco.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
         }
       ],
       "events": [
@@ -3412,8 +3388,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
-          "name": "texto",
+          "name": "NPC conversa",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -3658,6 +3633,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Portal",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
