@@ -1529,6 +1529,789 @@
         "name": "Fundo2.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "andando16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "andando16.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "andando17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "andando17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "andando18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "andando18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Aula de Terca e Quarta/AsepritDoTio/Assets/Jogador/andando4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\Aula de Terca e Quarta\\AsepritDoTio\\Assets\\Jogador\\andando4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Aula de Terca e Quarta/AsepritDoTio/Assets/Jogador/andando5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\Aula de Terca e Quarta\\AsepritDoTio\\Assets\\Jogador\\andando5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "parado16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "parado16.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "parado17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "parado17.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "parado18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "parado18.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "parado19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "parado19.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "parado20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "parado20.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "parado21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "parado21.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "parado22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "parado22.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Parado2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Parado",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Parado2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Parado2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Parado3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Parado3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Parado4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Parado4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Parado5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Parado5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Parado6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Parado6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Parado7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Parado7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pulando6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pulando6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pulando7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pulando7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pulando8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pulando8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pulando.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Pulando",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pulando2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Pulando2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pulando3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Pulando3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "deslizando8.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"deslizando8.png\",\"extension\":\".png\"}",
+        "name": "deslizando8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "deslizando9.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"deslizando9.png\",\"extension\":\".png\"}",
+        "name": "deslizando9.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "deslizando10.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"deslizando10.png\",\"extension\":\".png\"}",
+        "name": "deslizando10.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "deslizando11.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"deslizando11.png\",\"extension\":\".png\"}",
+        "name": "deslizando11.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Deslizando5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Deslizando5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Deslizando6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Deslizando6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Deslizando7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Deslizando7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Deslizando8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Deslizando8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "parado23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "parado23.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Bloco4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bloco4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Deslizando9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Deslizando9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Deslizando10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Deslizando10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Deslizando11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Deslizando11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Deslizando12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Deslizando12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pulando4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Pulando4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pulando5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Pulando5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pulando6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Pulando6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle20",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle21",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando17",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando18",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando19",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando20",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando21",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando22",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando23",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando24",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Deslizando13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Deslizando13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Deslizando14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Deslizando14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Deslizando15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Deslizando15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Deslizando16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Deslizando16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pulando7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Pulando7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pulando8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Pulando8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Pulando9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Pulando9",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1564,7 +2347,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.23089183385225157,
+        "zoomFactor": 0.35534345588170313,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3388,6 +4171,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "NPC conversa",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -3755,7 +4539,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.3216911764705893,
+        "zoomFactor": 0.5468750000000014,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3774,8 +4558,8 @@
           "layer": "",
           "name": "Reed",
           "persistentUuid": "51513bd7-7616-42be-8880-d8e7c47daf00",
-          "width": 96,
-          "x": 0,
+          "width": 64,
+          "x": 32,
           "y": 512,
           "zOrder": 2,
           "numberProperties": [],
@@ -3789,11 +4573,11 @@
           "height": 640,
           "layer": "Fundo",
           "name": "Fundo_Ceu",
-          "persistentUuid": "c4513116-acca-4440-892d-f85450460da7",
+          "persistentUuid": "f0f744d7-f3c8-4a60-8820-710b288599aa",
           "width": 1280,
           "x": 0,
           "y": 0,
-          "zOrder": 3,
+          "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3805,11 +4589,11 @@
           "height": 600,
           "layer": "Fundo",
           "name": "Fundo_Nuvem",
-          "persistentUuid": "f3e4d38a-379d-41d7-ab41-9cd80b5130c1",
-          "width": 1312,
-          "x": -32,
-          "y": -64,
-          "zOrder": 4,
+          "persistentUuid": "6c4c1f1c-77be-442b-9729-b94aef3e1c98",
+          "width": 1280,
+          "x": 0,
+          "y": 0,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3818,14 +4602,30 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 96,
+          "height": 128,
           "layer": "",
           "name": "Chao",
-          "persistentUuid": "eb62a9ed-707e-4180-8c83-1f5cd96b254e",
+          "persistentUuid": "2376058f-7f17-4efc-bf1a-6b19545ad7d9",
           "width": 1280,
           "x": 0,
-          "y": 640,
-          "zOrder": 5,
+          "y": 608,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 384,
+          "layer": "",
+          "name": "Chao",
+          "persistentUuid": "113fc7c0-7ae2-4512-9726-18355a0ed3e6",
+          "width": 32,
+          "x": 800,
+          "y": 224,
+          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3839,7 +4639,26 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "PuloDuplo",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "folded": true,
+              "name": "Deslizando",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "folded": true,
+              "name": "Deslizar",
+              "type": "boolean",
+              "value": false
+            }
+          ],
           "effects": [],
           "behaviors": [
             {
@@ -3870,11 +4689,12 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "parado1.png",
+                      "image": "Idle15",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3890,27 +4710,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "parado2.png",
+                      "image": "Idle16",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3926,27 +4746,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "parado3.png",
+                      "image": "Idle17",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3962,27 +4782,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "parado4.png",
+                      "image": "Idle18",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3998,27 +4818,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "parado5.png",
+                      "image": "Idle19",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4034,27 +4854,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "parado6.png",
+                      "image": "Idle20",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4070,27 +4890,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "parado7.png",
+                      "image": "Idle21",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4106,20 +4926,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
@@ -4134,11 +4954,12 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "andando1.png",
+                      "image": "Andando17",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4154,27 +4975,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "andando2.png",
+                      "image": "Andando18",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4190,27 +5011,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "andando3.png",
+                      "image": "Andando19",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4226,27 +5047,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "andando4.png",
+                      "image": "Andando20",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4262,27 +5083,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "andando5.png",
+                      "image": "Andando21",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4298,27 +5119,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "andando6.png",
+                      "image": "Andando22",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4334,27 +5155,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "andando7.png",
+                      "image": "Andando23",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4370,27 +5191,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "andando8.png",
+                      "image": "Andando24",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4406,20 +5227,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
@@ -4434,11 +5255,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "deslizando1.png",
+                      "image": "Deslizando13",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4454,27 +5276,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "deslizando2.png",
+                      "image": "Deslizando14",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4490,27 +5312,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "deslizando3.png",
+                      "image": "Deslizando15",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4526,27 +5348,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "deslizando4.png",
+                      "image": "Deslizando16",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4562,20 +5384,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
@@ -4590,11 +5412,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "pulando1.png",
+                      "image": "Pulando7",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4610,27 +5433,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "pulando2.png",
+                      "image": "Pulando8",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4646,27 +5469,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "pulando3.png",
+                      "image": "Pulando9",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4682,20 +5505,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
-                            "y": 16
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 16
+                            "x": 28,
+                            "y": 0
                           },
                           {
-                            "x": 46,
-                            "y": 96
+                            "x": 28,
+                            "y": 80
                           },
                           {
-                            "x": 18,
-                            "y": 96
+                            "x": 0,
+                            "y": 80
                           }
                         ]
                       ]
@@ -4711,7 +5534,7 @@
           "height": 32,
           "name": "Chao",
           "tags": "",
-          "texture": "Bloco2.png",
+          "texture": "Bloco4.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -4757,6 +5580,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Movimento da Camera",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -4807,6 +5631,412 @@
                     "Fundo_Nuvem",
                     "+",
                     "2"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Pulo Duplo",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "PuloDuplo",
+                    "True"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Space"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "PuloDuplo",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "PuloDuplo",
+                    "False"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SetCanJump"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "PlatformerObject"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Deslizar",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "Deslizar",
+                    "True"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "j"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "Deslizar",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "Deslizar",
+                    "False"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "Deslizando",
+                    "True"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                      },
+                      "parameters": [
+                        "Reed",
+                        "Flippable"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceAL"
+                      },
+                      "parameters": [
+                        "Reed",
+                        "180",
+                        "1000",
+                        "1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                      },
+                      "parameters": [
+                        "Reed",
+                        "Flippable"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceAL"
+                      },
+                      "parameters": [
+                        "Reed",
+                        "0",
+                        "1000",
+                        "1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Arreter"
+                      },
+                      "parameters": [
+                        "Reed"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Reed",
+                        "Deslizando",
+                        "False"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Andando",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "a"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateLeftKey"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "Flippable",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "d"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateRightKey"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "Flippable",
+                    "no"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "w"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateUpKey"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "PlatformerObject"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "s"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateDownKey"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "PlatformerObject"
                   ]
                 }
               ]
