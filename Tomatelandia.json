@@ -23,8 +23,8 @@
     "name": "Tomatelandia",
     "description": "",
     "author": "",
-    "windowWidth": 1280,
-    "windowHeight": 720,
+    "windowWidth": 1920,
+    "windowHeight": 1078,
     "latestCompilationDirectory": "",
     "maxFPS": 60,
     "minFPS": 20,
@@ -1912,7 +1912,7 @@
         "alwaysLoaded": false,
         "file": "Bloco4.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Bloco4.png\",\"extension\":\".png\",\"pskl\":{}}",
         "name": "Bloco4.png",
         "smoothed": false,
         "userAdded": true
@@ -2312,6 +2312,94 @@
         "name": "Pulando9",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/FundoNuvem.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "FundoNuvem.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Espinho.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Espinho.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Espinho2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Espinho2.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Espinho2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fundo.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Fundo",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "Redd Typewrite.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Redd Typewrite.ttf",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Cristal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cristal.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Moeda.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Moeda",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Espinho3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Espinho3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Espinho3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Espinho3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite2.png\"}",
+        "name": "NewSprite",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -4348,7 +4436,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "anim Tomate",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -4539,7 +4626,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.5468750000000014,
+        "zoomFactor": 0.3797121001947953,
         "windowMask": false
       },
       "objectsGroups": [
@@ -4559,7 +4646,7 @@
           "name": "Reed",
           "persistentUuid": "51513bd7-7616-42be-8880-d8e7c47daf00",
           "width": 64,
-          "x": 32,
+          "x": 128,
           "y": 512,
           "zOrder": 2,
           "numberProperties": [],
@@ -4570,11 +4657,11 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 640,
+          "height": 1760,
           "layer": "Fundo",
           "name": "Fundo_Ceu",
           "persistentUuid": "f0f744d7-f3c8-4a60-8820-710b288599aa",
-          "width": 1280,
+          "width": 2272,
           "x": 0,
           "y": 0,
           "zOrder": 6,
@@ -4586,11 +4673,11 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 600,
+          "height": 1728,
           "layer": "Fundo",
           "name": "Fundo_Nuvem",
           "persistentUuid": "6c4c1f1c-77be-442b-9729-b94aef3e1c98",
-          "width": 1280,
+          "width": 2272,
           "x": 0,
           "y": 0,
           "zOrder": 7,
@@ -4606,7 +4693,7 @@
           "layer": "",
           "name": "Chao",
           "persistentUuid": "2376058f-7f17-4efc-bf1a-6b19545ad7d9",
-          "width": 1280,
+          "width": 3744,
           "x": 0,
           "y": 608,
           "zOrder": 8,
@@ -4618,14 +4705,109 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 384,
+          "height": 32,
           "layer": "",
           "name": "Chao",
-          "persistentUuid": "113fc7c0-7ae2-4512-9726-18355a0ed3e6",
-          "width": 32,
-          "x": 800,
-          "y": 224,
+          "persistentUuid": "4b0fbf27-c906-4617-83c0-2d0ca8c5e7dd",
+          "width": 128,
+          "x": 448,
+          "y": 480,
           "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "layer": "",
+          "name": "Chao",
+          "persistentUuid": "d6603314-d322-4dd5-970c-b6153dbe2243",
+          "width": 128,
+          "x": 608,
+          "y": 416,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "layer": "",
+          "name": "Chao",
+          "persistentUuid": "71297214-0c91-4d03-b2e7-bfd8f5302473",
+          "width": 128,
+          "x": 768,
+          "y": 352,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "layer": "",
+          "name": "Chao",
+          "persistentUuid": "c3bbbf20-b059-4393-bc45-cc779b3c3fee",
+          "width": 128,
+          "x": 1248,
+          "y": 352,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "layer": "",
+          "name": "EspinhoTile",
+          "persistentUuid": "2b6a5994-cc91-414c-b193-06b163b22388",
+          "width": 704,
+          "x": 640,
+          "y": 576,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1728,
+          "layer": "",
+          "name": "Fundo",
+          "persistentUuid": "a2ce6d41-cab3-48bb-b14a-232239c3e63d",
+          "width": 2272,
+          "x": -2528,
+          "y": -1280,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Morreu",
+          "persistentUuid": "3c614ee8-866c-40f3-83b4-479035308fa0",
+          "width": 0,
+          "x": -1938,
+          "y": -491,
+          "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4633,7 +4815,7 @@
       ],
       "objects": [
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "Reed",
           "tags": "",
@@ -4657,6 +4839,18 @@
               "name": "Deslizar",
               "type": "boolean",
               "value": false
+            },
+            {
+              "folded": true,
+              "name": "Morto",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "folded": true,
+              "name": "Pontuacao",
+              "type": "number",
+              "value": 0
             }
           ],
           "effects": [],
@@ -4710,15 +4904,15 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
+                            "x": 5.5,
+                            "y": 1
+                          },
+                          {
+                            "x": 19.5,
                             "y": 0
                           },
                           {
-                            "x": 28,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
+                            "x": 25,
                             "y": 80
                           },
                           {
@@ -4746,15 +4940,15 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
+                            "x": 5.5,
+                            "y": 1
+                          },
+                          {
+                            "x": 19.5,
                             "y": 0
                           },
                           {
-                            "x": 28,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
+                            "x": 25,
                             "y": 80
                           },
                           {
@@ -4782,15 +4976,15 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
+                            "x": 5.5,
+                            "y": 1
+                          },
+                          {
+                            "x": 19.5,
                             "y": 0
                           },
                           {
-                            "x": 28,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
+                            "x": 25,
                             "y": 80
                           },
                           {
@@ -4818,15 +5012,15 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
+                            "x": 5.5,
+                            "y": 1
+                          },
+                          {
+                            "x": 19.5,
                             "y": 0
                           },
                           {
-                            "x": 28,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
+                            "x": 25,
                             "y": 80
                           },
                           {
@@ -4854,15 +5048,15 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
+                            "x": 5.5,
+                            "y": 1
+                          },
+                          {
+                            "x": 19.5,
                             "y": 0
                           },
                           {
-                            "x": 28,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
+                            "x": 25,
                             "y": 80
                           },
                           {
@@ -4890,15 +5084,15 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
+                            "x": 5.5,
+                            "y": 1
+                          },
+                          {
+                            "x": 19.5,
                             "y": 0
                           },
                           {
-                            "x": 28,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
+                            "x": 25,
                             "y": 80
                           },
                           {
@@ -4926,15 +5120,15 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
+                            "x": 5.5,
+                            "y": 1
+                          },
+                          {
+                            "x": 19.5,
                             "y": 0
                           },
                           {
-                            "x": 28,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
+                            "x": 25,
                             "y": 80
                           },
                           {
@@ -4975,20 +5169,28 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 19,
+                            "y": 46.5
                           },
                           {
-                            "x": 28,
-                            "y": 0
+                            "x": 29,
+                            "y": 3.5
                           },
                           {
-                            "x": 28,
-                            "y": 80
+                            "x": 40,
+                            "y": 3.5
                           },
                           {
-                            "x": 0,
-                            "y": 80
+                            "x": 36,
+                            "y": 49
+                          },
+                          {
+                            "x": 46,
+                            "y": 75.5
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 56.5
                           }
                         ]
                       ]
@@ -5011,20 +5213,28 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 19,
+                            "y": 46.5
                           },
                           {
-                            "x": 28,
-                            "y": 0
+                            "x": 29,
+                            "y": 3.5
                           },
                           {
-                            "x": 28,
-                            "y": 80
+                            "x": 40,
+                            "y": 3.5
                           },
                           {
-                            "x": 0,
-                            "y": 80
+                            "x": 36,
+                            "y": 49
+                          },
+                          {
+                            "x": 46,
+                            "y": 75.5
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 56.5
                           }
                         ]
                       ]
@@ -5047,20 +5257,28 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 19,
+                            "y": 46.5
                           },
                           {
-                            "x": 28,
-                            "y": 0
+                            "x": 29,
+                            "y": 3.5
                           },
                           {
-                            "x": 28,
-                            "y": 80
+                            "x": 40,
+                            "y": 3.5
                           },
                           {
-                            "x": 0,
-                            "y": 80
+                            "x": 36,
+                            "y": 49
+                          },
+                          {
+                            "x": 46,
+                            "y": 75.5
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 56.5
                           }
                         ]
                       ]
@@ -5083,20 +5301,28 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 19,
+                            "y": 46.5
                           },
                           {
-                            "x": 28,
-                            "y": 0
+                            "x": 29,
+                            "y": 3.5
                           },
                           {
-                            "x": 28,
-                            "y": 80
+                            "x": 40,
+                            "y": 3.5
                           },
                           {
-                            "x": 0,
-                            "y": 80
+                            "x": 36,
+                            "y": 49
+                          },
+                          {
+                            "x": 46,
+                            "y": 75.5
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 56.5
                           }
                         ]
                       ]
@@ -5119,20 +5345,28 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 19,
+                            "y": 46.5
                           },
                           {
-                            "x": 28,
-                            "y": 0
+                            "x": 29,
+                            "y": 3.5
                           },
                           {
-                            "x": 28,
-                            "y": 80
+                            "x": 40,
+                            "y": 3.5
                           },
                           {
-                            "x": 0,
-                            "y": 80
+                            "x": 36,
+                            "y": 49
+                          },
+                          {
+                            "x": 46,
+                            "y": 75.5
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 56.5
                           }
                         ]
                       ]
@@ -5155,20 +5389,28 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 19,
+                            "y": 46.5
                           },
                           {
-                            "x": 28,
-                            "y": 0
+                            "x": 29,
+                            "y": 3.5
                           },
                           {
-                            "x": 28,
-                            "y": 80
+                            "x": 40,
+                            "y": 3.5
                           },
                           {
-                            "x": 0,
-                            "y": 80
+                            "x": 36,
+                            "y": 49
+                          },
+                          {
+                            "x": 46,
+                            "y": 75.5
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 56.5
                           }
                         ]
                       ]
@@ -5191,20 +5433,28 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 19,
+                            "y": 46.5
                           },
                           {
-                            "x": 28,
-                            "y": 0
+                            "x": 29,
+                            "y": 3.5
                           },
                           {
-                            "x": 28,
-                            "y": 80
+                            "x": 40,
+                            "y": 3.5
                           },
                           {
-                            "x": 0,
-                            "y": 80
+                            "x": 36,
+                            "y": 49
+                          },
+                          {
+                            "x": 46,
+                            "y": 75.5
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 56.5
                           }
                         ]
                       ]
@@ -5227,20 +5477,28 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 19,
+                            "y": 46.5
                           },
                           {
-                            "x": 28,
-                            "y": 0
+                            "x": 29,
+                            "y": 3.5
                           },
                           {
-                            "x": 28,
-                            "y": 80
+                            "x": 40,
+                            "y": 3.5
                           },
                           {
-                            "x": 0,
-                            "y": 80
+                            "x": 36,
+                            "y": 49
+                          },
+                          {
+                            "x": 46,
+                            "y": 75.5
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 56.5
                           }
                         ]
                       ]
@@ -5276,20 +5534,32 @@
                       "customCollisionMask": [
                         [
                           {
+                            "x": 35,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 3.5
+                          },
+                          {
+                            "x": 58,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 48,
+                            "y": 28
+                          },
+                          {
+                            "x": 48,
+                            "y": 44.5
+                          },
+                          {
+                            "x": 30,
+                            "y": 54
+                          },
+                          {
                             "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
-                            "y": 80
-                          },
-                          {
-                            "x": 0,
-                            "y": 80
+                            "y": 56
                           }
                         ]
                       ]
@@ -5312,20 +5582,32 @@
                       "customCollisionMask": [
                         [
                           {
+                            "x": 35,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 3.5
+                          },
+                          {
+                            "x": 58,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 48,
+                            "y": 28
+                          },
+                          {
+                            "x": 48,
+                            "y": 44.5
+                          },
+                          {
+                            "x": 30,
+                            "y": 54
+                          },
+                          {
                             "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
-                            "y": 80
-                          },
-                          {
-                            "x": 0,
-                            "y": 80
+                            "y": 56
                           }
                         ]
                       ]
@@ -5348,20 +5630,32 @@
                       "customCollisionMask": [
                         [
                           {
+                            "x": 35,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 3.5
+                          },
+                          {
+                            "x": 58,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 48,
+                            "y": 28
+                          },
+                          {
+                            "x": 48,
+                            "y": 44.5
+                          },
+                          {
+                            "x": 30,
+                            "y": 54
+                          },
+                          {
                             "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
-                            "y": 80
-                          },
-                          {
-                            "x": 0,
-                            "y": 80
+                            "y": 56
                           }
                         ]
                       ]
@@ -5384,20 +5678,32 @@
                       "customCollisionMask": [
                         [
                           {
+                            "x": 35,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 3.5
+                          },
+                          {
+                            "x": 58,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 48,
+                            "y": 28
+                          },
+                          {
+                            "x": 48,
+                            "y": 44.5
+                          },
+                          {
+                            "x": 30,
+                            "y": 54
+                          },
+                          {
                             "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
-                            "y": 0
-                          },
-                          {
-                            "x": 28,
-                            "y": 80
-                          },
-                          {
-                            "x": 0,
-                            "y": 80
+                            "y": 56
                           }
                         ]
                       ]
@@ -5433,20 +5739,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
+                            "x": 23,
                             "y": 0
                           },
                           {
-                            "x": 28,
+                            "x": 34.5,
                             "y": 0
                           },
                           {
-                            "x": 28,
-                            "y": 80
+                            "x": 38.5,
+                            "y": 54
                           },
                           {
-                            "x": 0,
-                            "y": 80
+                            "x": 1.5,
+                            "y": 78
                           }
                         ]
                       ]
@@ -5469,20 +5775,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
+                            "x": 23,
                             "y": 0
                           },
                           {
-                            "x": 28,
+                            "x": 34.5,
                             "y": 0
                           },
                           {
-                            "x": 28,
-                            "y": 80
+                            "x": 38.5,
+                            "y": 54
                           },
                           {
-                            "x": 0,
-                            "y": 80
+                            "x": 1.5,
+                            "y": 78
                           }
                         ]
                       ]
@@ -5505,20 +5811,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
+                            "x": 23,
                             "y": 0
                           },
                           {
-                            "x": 28,
+                            "x": 34.5,
                             "y": 0
                           },
                           {
-                            "x": 28,
-                            "y": 80
+                            "x": 38.5,
+                            "y": 54
                           },
                           {
-                            "x": 0,
-                            "y": 80
+                            "x": 1.5,
+                            "y": 78
                           }
                         ]
                       ]
@@ -5543,7 +5849,7 @@
             {
               "name": "Platform",
               "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
+              "canBeGrabbed": false,
               "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
@@ -5572,6 +5878,226 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "EspinhoTile",
+          "tags": "",
+          "texture": "Espinho2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Morreu",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Você Morreu !",
+          "font": "Redd Typewrite.ttf",
+          "textAlignment": "left",
+          "characterSize": 200,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Fundo",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Fundo",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Fundo",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Moeda",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Moeda",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Moeda",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 18,
+                            "y": 0
+                          },
+                          {
+                            "x": 18,
+                            "y": 26
+                          },
+                          {
+                            "x": 0,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Espinho",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Espinho3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Espinho3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 29,
+                            "y": 0
+                          },
+                          {
+                            "x": 29,
+                            "y": 13
+                          },
+                          {
+                            "x": 0,
+                            "y": 13
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -5587,7 +6113,18 @@
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "Morto",
+                    "False"
+                  ]
+                }
+              ],
               "actions": [
                 {
                   "type": {
@@ -5631,6 +6168,22 @@
                     "Fundo_Nuvem",
                     "+",
                     "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Fundo"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Morreu"
                   ]
                 }
               ]
@@ -5732,7 +6285,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Deslizar",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5916,7 +6468,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Andando",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -6037,6 +6588,256 @@
                   "parameters": [
                     "Reed",
                     "PlatformerObject"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Animação/Personalização do reed",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "Animation",
+                    "=",
+                    "\"Andando\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "Animation",
+                    "=",
+                    "\"Idle\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "Animation",
+                    "=",
+                    "\"Pulando\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "Deslizando",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "Animation",
+                    "=",
+                    "\"Deslizando\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Espinhos",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "EspinhoTile",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "Morto",
+                    "True"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "ObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Reed",
+                        "Morto",
+                        "True"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetCameraCenterY"
+                      },
+                      "parameters": [
+                        "",
+                        "=",
+                        "Fundo.CenterY()",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetCameraCenterX"
+                      },
+                      "parameters": [
+                        "",
+                        "=",
+                        "Fundo.CenterX()",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Reed",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "Fundo",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "Morreu",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ]
