@@ -2723,7 +2723,7 @@
         "alwaysLoaded": false,
         "file": "assets/NewSprite4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite4.png\"}",
         "name": "NewSprite3",
         "smoothed": false,
         "userAdded": true
@@ -2941,6 +2941,78 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Andando40.png\"}",
         "name": "Andando40",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando Com Escudo.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando Com Escudo",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando Com Escudo2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando Com Escudo2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando Com Escudo3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando Com Escudo3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando Com Escudo4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando Com Escudo4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando Com Escudo5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando Com Escudo5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando Com Escudo6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando Com Escudo6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando Com Escudo7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando Com Escudo7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Andando Com Escudo8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Andando Com Escudo8",
         "smoothed": false,
         "userAdded": true
       }
@@ -5175,7 +5247,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.2817259932079633,
+        "zoomFactor": 0.30104611971825457,
         "windowMask": false
       },
       "objectsGroups": [
@@ -5227,8 +5299,8 @@
           "name": "Fundo_Nuvem",
           "persistentUuid": "6c4c1f1c-77be-442b-9729-b94aef3e1c98",
           "width": 2373,
-          "x": 3,
-          "y": -19,
+          "x": 235,
+          "y": -12,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -8414,6 +8486,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Animação/Personalização do reed",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8428,7 +8501,7 @@
                   "parameters": [
                     "Reed",
                     "Esudo",
-                    ""
+                    "False"
                   ]
                 },
                 {
@@ -8574,6 +8647,11 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
             }
           ],
           "parameters": []
@@ -8874,6 +8952,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Disparo Boss",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9011,7 +9090,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Morte Reed",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9126,22 +9204,41 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "ObjectVariableAsBoolean"
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Reed",
+                    "Escudo",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
                   },
                   "parameters": [
                     "Reed",
                     "Esudo",
                     "True"
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
                 {
                   "type": {
-                    "inverted": true,
-                    "value": "PlatformBehavior::IsOnFloor"
+                    "value": "ObjectVariableAsBoolean"
                   },
                   "parameters": [
                     "Reed",
-                    "PlatformerObject"
+                    "Esudo",
+                    "True"
                   ]
                 },
                 {
@@ -9176,35 +9273,6 @@
                     "Boos.CenterY()",
                     "500",
                     "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Reed",
-                    "Escudo",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetObjectVariableAsBoolean"
-                  },
-                  "parameters": [
-                    "Reed",
-                    "Esudo",
-                    "True"
                   ]
                 }
               ]
@@ -9385,7 +9453,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.09430311061498269,
+        "zoomFactor": 0.12295621310785729,
         "windowMask": false
       },
       "objectsGroups": [
@@ -11796,6 +11864,18 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
         }
       ],
       "events": [
@@ -11804,6 +11884,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Movimento da Camera",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -12816,7 +12897,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Portal",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
